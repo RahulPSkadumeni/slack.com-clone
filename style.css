@@ -1,0 +1,91 @@
+.container {
+  padding-top: 3%;
+  font-family: , sans-serif;
+}
+.Signup {
+  width: 50%;
+  font-size: large;
+  font-family: sans-serif;
+  height: 3rem;
+  margin-top: 0;
+  margin-left: 3%;
+}
+.try {
+  width: 30%;
+  font-size: large;
+  font-family: sans-serif;
+  height: 3rem;
+  margin-top: 0;
+  margin-left: 3%;
+}
+.slack {
+  font-size: 4rem;
+  font-weight: bolder;
+}
+.try2 {
+  font-size: large;
+  font-family: sans-serif;
+  height: 3rem;
+  margin-top: 0;
+  margin-left: 2%;
+  border: 2px;
+}
+.data {
+  text-align: center;
+}
+.sign {
+  text-align: left;
+}
+.buttonno {
+  width: 4%;
+  font-size: x-small;
+  text-align: center;
+  font-family: sans-serif;
+  height: 2.3rem;
+  margin-top: 0;
+
+  padding-right: 3%;
+}
+.cards {
+  align-items: center;
+}
+.button3 {
+  width: 40%;
+}
+
+.button4 {
+  color: white;
+  background: #611f69;
+  border-radius: 1rem;
+  border: solid 1px;
+  font-weight: bold;
+  height: 4rem;
+}
+
+.button5 {
+  color: #611f69;
+  background: #ffffff;
+  border-radius: 1rem;
+  border: solid 1px;
+  height: 4rem;
+  font-weight: bold;
+}
+.button4:hover {
+  color: #2b1e2c;
+  background: #951db9;
+}
+
+.bottom {
+  font-size: small;
+}
+
+.button5:hover {
+  color: #2b1e2c;
+  background: #951db9;
+}
+.cloud {
+  background-color: #ffffff;
+  border: none;
+  color: #1264a3;
+  font-weight: bold;
+}
